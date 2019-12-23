@@ -1,5 +1,8 @@
 {
-    "scripts": {
-      "storybook": "start-storybook"
-    }
-    }
+  "scripts": {
+    "storybook": "start-storybook"
+  },
+  "devDependencies": {
+    "@storybook/react": "^5.2.8"
+  }
+}
