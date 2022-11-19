@@ -3,6 +3,6 @@
     "storybook": "start-storybook"
   },
   "devDependencies": {
-    "@storybook/react": "^5.2.8"
+    "@storybook/react": "^6.5.13"
   }
 }
